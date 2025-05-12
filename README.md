@@ -35,8 +35,9 @@ I've been learning to code for 1 years, after switching careers. I started with 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=Neywerson&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Neywerson&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://www.github.com/Neywerson" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Neywerson?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+ -->
 
 
