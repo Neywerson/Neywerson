@@ -14,10 +14,10 @@ I've been learning to code for 1 years, after switching careers. I started with 
 *   🤝  I'm open to collaborating on Miscellaneous projects.
 *   ⚡  I'm secretly Spiderman... but don't tell anyone🕸
   
-## 💰 **Support the project, make a donation!**
+## 💰 **You can help me by supporting my projects, make a donation!**
 [![Pix](https://img.shields.io/badge/-Pix-77B6A8?style=for-the-badge&logo=pix&logoColor=white&label=Chave%206be6c79b-c7f4-47f1-8adc-a3bef3e8086d)](6be6c79b-c7f4-47f1-8adc-a3bef3e8086d) [![Mercado Pago](https://img.shields.io/badge/mercado-pago?style=for-the-badge&logo=mercadopago&logoColor=white&color=blue)](https://biolivre.com.br/neywerson) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=V4CG4WPCXQ4HN) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Neywerson) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Neywerson)  
 
-## 🌐 I'M IN:
+## 🌐 I'm in:
 <a href="https://4pda.to/forum/index.php?showuser=7038890" target="_blank">
   <img src="https://play-lh.googleusercontent.com/THMN9slpf4-6ylixfXbwJ7pofDQM_RMrL99LZA1iWjlEdIadk_HdPLJJbLHQlTAQ2iM" alt="4PDA" width="40" />
 </a>
@@ -39,5 +39,4 @@ I've been learning to code for 1 years, after switching careers. I started with 
 
 <a href="https://www.github.com/Neywerson" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Neywerson?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Neywerson) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Neywerson) 
+
