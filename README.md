@@ -6,20 +6,29 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 I've been learning to code for 1 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
-*   🌍  I'm based in Brasil
-*   🖥️  See my portfolio at [Neywerson](http://neywerson.github.io)
-*   ✉️  You can contact me at [nfdr\_nfdr@hotmail.com](mailto:nfdr_nfdr@hotmail.com)
-*   🚀  I'm currently working on [NFDR S.A.](http://www.nfdr.studio)
-*   🧠  I'm learning Java, C, C#, C++, ect...
-*   🤝  I'm open to collaborating on Miscellaneous projects.
-*   ⚡  I'm secretly Spiderman... but don't tell anyone🕸
+<p align="left">
+  <img src="https://raw.github.com/Neywerson/4PDA-Logos/main/monkeyDidNotEvolve.gif" alt="4PDA" width="200" align="right" style="vertical-align: top;" />
+
+🌍  I'm based in Brasil  
+🖥️  See my portfolio at [Neywerson](http://neywerson.github.io)  
+✉️  You can contact me at [nfdr_nfdr@hotmail.com](mailto:nfdr_nfdr@hotmail.com)  
+🚀  I'm currently working on [NFDR S.A.](http://www.nfdr.studio)  
+🧠  I'm learning Java, C, C#, C++, etc...  
+🤝  I'm open to collaborating on Miscellaneous projects.  
+⚡  I'm secretly Spiderman... but don't tell anyone 🕸  
+</p>
   
 ## 💰 **You can help me by supporting my projects, make a donation!**
-[![Pix](https://img.shields.io/badge/-Pix-77B6A8?style=for-the-badge&logo=pix&logoColor=white&label=Chave%206be6c79b-c7f4-47f1-8adc-a3bef3e8086d)](6be6c79b-c7f4-47f1-8adc-a3bef3e8086d) [![Mercado Pago](https://img.shields.io/badge/mercado-pago?style=for-the-badge&logo=mercadopago&logoColor=white&color=blue)](https://biolivre.com.br/neywerson) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=V4CG4WPCXQ4HN) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Neywerson) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Neywerson)  
+[![Mercado Pago](https://img.shields.io/badge/mercado-pago?style=for-the-badge&logo=mercadopago&logoColor=white&color=blue)](https://biolivre.com.br/neywerson) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=V4CG4WPCXQ4HN) [![Pix](https://img.shields.io/badge/-Pix-77B6A8?style=for-the-badge&logo=pix&logoColor=white&label=Chave%206be6c79b-c7f4-47f1-8adc-a3bef3e8086d)](6be6c79b-c7f4-47f1-8adc-a3bef3e8086d) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Neywerson) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Neywerson)  
 
 ## 🌐 I'm in:
+
+<a href="https://4pda.to/forum/index.php?showuser=7038890" target="_blank" style="display: inline-block; background-color: white; padding: 4px;">
+  <img src="https://raw.github.com/Neywerson/4PDA-Logos/main/Infiltrovat'White.gif" alt="4PDA" width="60" />
+</a>
+<br />
 <a href="https://4pda.to/forum/index.php?showuser=7038890" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/THMN9slpf4-6ylixfXbwJ7pofDQM_RMrL99LZA1iWjlEdIadk_HdPLJJbLHQlTAQ2iM" alt="4PDA" width="40" />
+  <img src="https://raw.github.com/Neywerson/4PDA-Logos/main/4pda-logo%20(3).svg" alt="4PDA" width="60" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neywerson) 
